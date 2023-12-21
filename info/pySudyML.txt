@@ -1,0 +1,10 @@
+Numpy
+Pandas
+MatPlotLib
+Scikit-Learn
+
+--
+Jupiter for ML coding - $conda config --set auto_activate_base false
+
+Kaggle - data set
+csv files
